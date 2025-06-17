@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+      <title>teste</title>
+    </head>
+    <body>
+      <center>
+      <h1>conteudo super legal</h1>
+      <p>fazendo o desafio sozinha</p>
+      <p><b>mas o chacha sempre ajuda</HTML>!!!</b></p>
+      <p><b><i><u>ainda no curso de tecnico em informatica</u></i></b></p>
+      </center>
+    </body>
+    <a href="index.html">Dá uma olhadinha aqui!!!</a>
+  </html>
+
+  http://172.16.0.34
